@@ -1,0 +1,83 @@
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script> 
+  <style>
+#title {
+  padding: 30em;
+}
+.tan-background {
+  background-color: #f6d8ac;
+}
+
+h1,h3 {
+  color: #2a6592;
+  
+padding: 10px;
+  
+}
+h2 {
+  color: #db9833
+    
+}
+
+.font{
+  margin: auto;
+  text-align: center;
+  padding: auto;
+  max-width 70%;
+}
+
+.center{
+  margin: auto;
+  text-align: center;
+  padding: auto;
+  max-width 70%;
+}
+#image {
+  max-width 100%;
+  height:auto;
+  display: block;
+  padding: 10px;
+}
+
+#img-div {
+   text-align: center;
+   display: block;
+   filter: grayscale(100%);
+   width: 100%;
+}
+
+img {
+  padding-top: 10px;
+  height: auto;
+  max-width: 330px;
+}
+#tribute-link {
+  color: #db9833
+}
+@media only screen and 
+  min-width 480 pix;{
+    
+}
+
+@media only screen and 
+  min-width 767 pix; {
+    
+}
+
+
+@media only screen and 
+  min-width 991 pix; {
+    
+}
+
+
+@media only screen and 
+  min-width 1200 pix; {
+    .font {
+     padding: 0px 200px 15 200px; 
+    }
+    
+}
+@media (orientation: landscape) {
+  
+}
+</style>
